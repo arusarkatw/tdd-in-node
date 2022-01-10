@@ -1,0 +1,19 @@
+{
+  "name": "tdd-in-node",
+  "version": "1.0.0",
+  "description": "TDD training in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "TDD",
+    "nodejs"
+  ],
+  "author": "Arusarka Haldar",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }
+}
